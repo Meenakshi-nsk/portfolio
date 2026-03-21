@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is my personal portfolio website created using HTML and CSS for my UID project Phase - 1 .
+This is my personal portfolio website created using HTML and CSS for my UID project Phase - 1 : https://meenakshi-nsk.github.io/portfolio/.
 
 ## Pages Included
 - Home
