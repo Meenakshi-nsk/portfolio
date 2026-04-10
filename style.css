@@ -100,12 +100,10 @@ header .container::after {
 }
 
 .me-image img {
-    width: 100px;
-    height: 120px;
-    border-radius: 15px;
-    border: 5px solid white;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
-    object-fit: cover;
+    width: 70px;
+    height: 85px;
+    border-radius: 10px;
+    border: 3px solid white;
 }
 
 .btn {
@@ -217,10 +215,9 @@ header .container::after {
 }
 
 .about-image img {
-    width: 100px;
-    border-radius: 15px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-    object-fit: cover;
+    width: 70px;
+    height: 85px;
+    border-radius: 10px;
 }
 
 .about-text {
@@ -364,7 +361,7 @@ footer a:hover {
 
     .me-image img,
     .about-image img {
-        width: 100%;
-        max-width: 100px;
-    }
+        width: 70px;
+        height: 85px;
+}
 }
